@@ -13,6 +13,7 @@ class ConsoleApp7
 
         Console.WriteLine(answ + " Разность ");
 
+
         answ = n1 + n2;
 
         Console.WriteLine(answ + " Сумма");
